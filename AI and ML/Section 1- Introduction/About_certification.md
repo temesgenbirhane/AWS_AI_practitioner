@@ -13,5 +13,4 @@ An AI engineer builds AI solutions using **managed AI services**.
     **Domain 4:** Guidance for Responsible AI
     **Domain 5:** Security, Compliance, and Governance for AI Solutions
 
-## Quick summary
 
