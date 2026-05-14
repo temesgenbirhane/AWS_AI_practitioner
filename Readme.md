@@ -1,1 +1,1 @@
-# AWS_AI_practitioner
+# A Study Note to Prepare for the AWS_AI_practitioner Certificate
